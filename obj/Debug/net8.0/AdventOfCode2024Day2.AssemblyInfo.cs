@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdventOfCode2024Day2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0720b8301fbebce06c0eb2cdcaef2e498311d29c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+167737912c87962db0741cac565cd2661a0570a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdventOfCode2024Day2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdventOfCode2024Day2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
